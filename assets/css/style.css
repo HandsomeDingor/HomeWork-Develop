@@ -78,7 +78,7 @@ section {
     margin-left: 20px;
 }
 
-/* apply style to adide */
+/* adide style */
 aside { 
     margin-right: 20px;
     padding: 20px;
@@ -91,11 +91,6 @@ aside {
 }
 
 
-aside div {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-/*
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -110,14 +105,9 @@ aside div {
     margin-bottom: 32px;
     color: #ffffff;
 }
-*/
 
-aside div h3{
-    margin-bottom: 10px;
-    text-align: center;
-}
 
-/*
+
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -132,14 +122,8 @@ aside div h3{
     margin-bottom: 10px;
     text-align: center;
 }
-*/
 
-aside div img{
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-/*
+
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -157,7 +141,7 @@ aside div img{
     margin: 10px auto;
     max-width: 150px;
 }
-*/
+
 
 .search-engine-optimization {
     margin-bottom: 20px;
